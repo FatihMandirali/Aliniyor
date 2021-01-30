@@ -22,7 +22,7 @@ Models Library :
 
 5. ApiResultModel : 
 
-    	Base bir response yapısı oluşturup servis responselerini bu base response üzerinden yönetmek için tasarlandı
+   ​	Base bir response yapısı oluşturup servis responselerini bu base response üzerinden yönetmek için tasarlandı
 
 
 
